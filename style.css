@@ -1,0 +1,27 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline;
+}
+
+ul.top-nav-left > li {
+  float: left;
+}
+
+ul.top-nav-right > li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
+#signin {
+  background-color: blue;
+  color: aliceblue;
+}
