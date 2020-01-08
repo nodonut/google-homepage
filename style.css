@@ -6,6 +6,13 @@ ul {
   display: inline;
 }
 
+a,
+a:visited {
+  color: black;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
 ul.top-nav-left {
   float: left;
 }
